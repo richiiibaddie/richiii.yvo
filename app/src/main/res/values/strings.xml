@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fname_hint">full name</string>
+    <string name="email_hint">email</string>
+    <string name="user_hint">username</string>
+    <string name="pass_hint">password</string>
+    <string name="repass_hint">retype password</string>
+
+
+</resources>
